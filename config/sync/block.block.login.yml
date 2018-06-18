@@ -1,6 +1,6 @@
 uuid: 2901817b-cc8c-4280-8d3b-1ea66372f905
 langcode: en
-status: true
+status: false
 dependencies:
   config:
     - system.menu.login

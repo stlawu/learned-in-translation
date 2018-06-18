@@ -6,6 +6,7 @@ dependencies:
     - field.field.paragraph.breakout.field_background_color
     - field.field.paragraph.breakout.field_background_image
     - field.field.paragraph.breakout.field_breakout_content
+    - field.field.paragraph.breakout.field_text_color
     - paragraphs.paragraphs_type.breakout
   module:
     - entity_reference_revisions
@@ -27,4 +28,5 @@ hidden:
   created: true
   field_background_color: true
   field_background_image: true
+  field_text_color: true
   uid: true

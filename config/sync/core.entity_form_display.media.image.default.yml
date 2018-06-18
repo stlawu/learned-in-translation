@@ -29,6 +29,7 @@ hidden:
   created: true
   field_height: true
   field_width: true
+  moderation_state: true
   name: true
   path: true
   uid: true
